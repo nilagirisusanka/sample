@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleApplication {
 
     public static void main(String[] args) {
-//this is my main method
+      //this is my main method
         SpringApplication.run(SampleApplication.class, args);
     }
 

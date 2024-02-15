@@ -1,7 +1,7 @@
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-
+//restcontroller annotation makes mycontroller class as restcontroller
 @RestController
 public class Controller {
     @GetMapping("/hello")
